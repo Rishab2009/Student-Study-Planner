@@ -6,6 +6,7 @@ Student-Study-Planner
 ##Technologies Used -Python
 
 How to Run
+
 1.Download the python file. 2.Open it in VS Code. 3.Run the program. 4.Select an option from the menu.
 
 Author
