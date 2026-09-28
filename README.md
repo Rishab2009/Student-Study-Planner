@@ -1,4 +1,4 @@
-Student-Study-Planner
+%Student-Study-Planner
 ##Project Description Student Study Planner is a begineer-friendly Python project that helps students manage their study tasks.
 
 ##Features -Add study tasks -View all tasks -Mark tasks as completed -Delete tasks -Exit the program
