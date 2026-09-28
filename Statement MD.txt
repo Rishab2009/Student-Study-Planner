@@ -1,0 +1,13 @@
+Problem Statement
+Students need a simple way to keep track of the subjects they are studying and the tasks they need to complete. Without an organized list, study activities can be forgotten or progress can be difficult to track. The Rishab Study Planner is a menu-driven Python program that lets users record study tasks, review them, mark them as completed, and delete tasks that are no longer needed.
+Scope of the Project
+The project is a basic, single-user study task manager that runs in a command-line interface. Each task includes a subject, a description, and a completion status. The program lets users add, view, complete, and delete tasks, or exit the application. Tasks are stored temporarily while the program is running. Saving tasks between sessions, reminders, due dates, priorities, and multiple user accounts are outside the project’s scope.
+Target Users
+The intended users are students who want a straightforward way to organize homework, revision, and other study activities by subject. The program is also suitable for beginner Python learners and anyone comfortable using a terminal.
+High-Level Features
+- Add Task: Enter a subject and study task. The new task starts with a pending status.
+- View Tasks: Display each task’s subject, description, and pending or completed status.
+- Complete Task: Select a task by its number and mark it as completed.
+- Delete Task: Select a task by its number and remove it from the list.
+- Menu and Exit: Return to the main menu after an operation or exit the program.
+- Input Feedback: Display messages when there are no tasks or when the user enters an invalid choice or task number.
